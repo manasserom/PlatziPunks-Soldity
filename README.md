@@ -1,4 +1,4 @@
-# About this Project (Smart contract repository)
+# About this Project (Smart contract repository in Solidity)
 PlatziPunks is a marketplace of NFTs created from data stored entirely on the blockchain and displayed through an application hosted on a decentralized file system.
 
 Platzi Punks is a collection of randomized Avatars whose metadata is stored on-chain. They have unique characteristics and there are only 10000 in existence.
